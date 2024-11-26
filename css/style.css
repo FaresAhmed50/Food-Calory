@@ -1,0 +1,12 @@
+
+
+
+@font-face {
+    font-family: 'YellowGenger';
+    src: url('../webfonts/static/Yellow Ginger.ttf');
+}
+
+
+.font{
+    font-family: 'YellowGenger';
+}
